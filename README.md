@@ -1,2 +1,0 @@
-# CaroOnline
-Caro online game
