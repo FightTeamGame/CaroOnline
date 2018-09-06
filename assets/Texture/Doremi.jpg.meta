@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fec7fbb1-7010-4764-a6d3-78db73c3dc75",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Doremi": {
+      "ver": "1.0.3",
+      "uuid": "76efc788-381c-471a-9559-34beba0504b0",
+      "rawTextureUuid": "fec7fbb1-7010-4764-a6d3-78db73c3dc75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1200,
+      "height": 1200,
+      "rawWidth": 1200,
+      "rawHeight": 1200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
